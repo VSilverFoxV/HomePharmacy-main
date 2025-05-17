@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Home Pharmacy</string>
+    <string name="title_home">Edit</string>
+    <string name="title_dashboard">View</string>
+    <string name="title_notifications">Manage</string>
+    <string name="profile">Profile</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="registration">Registration</string>
+    <string name="username">Username</string>
+    <string name="password">Password (4 digits)</string>
+    <string name="confirm">Confirm password</string>
+    <string name="letsgo">Create an account</string>
+    <string name="password_mismatch">Passwords mismatching</string>
+    <string name="login">Login</string>
+    <string name="wrong_password">Wrong password</string>
+    <string name="welcome">"Welcome back, "</string>
+    <string name="fab" Translatable="false" translatable="false">Fab</string>
+    <string name="about_me">"Hello there "</string>
+    <string name="old_password">Old password</string>
+    <string name="password_changed">Password updated successfully</string>
+    <string name="log_out_confirm_message">
+        This action will delete all data and you will need to register again. Do you want to proceed?
+    </string>
+    <string name="no">No</string>
+    <string name="log_out_confirm_title">Are you sure?</string>
+    <string name="yes">Yes</string>
+    <string name="item_name">Item Name</string>
+    <string name="company_name">Company Name</string>
+    <string name="quantity">Quantity</string>
+    <string name="price">Price</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_item">Add Item</string>
+    <string name="save">Save</string>
+    <string name="change_password">Change password</string>
+    <string name="log_out">Log out</string>
+</resources>

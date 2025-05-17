@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Домашняя аптека</string>
+    <string name="title_home">Редакция</string>
+    <string name="title_dashboard">Просмотр</string>
+    <string name="title_notifications">Управление</string>
+    <string name="profile">Профиль</string>
+    <string name="hello_blank_fragment">Привет из темноты</string>
+    <string name="registration">Регистрация</string>
+    <string name="username">Имя пользователя</string>
+    <string name="password">Пароль (4 цифры)</string>
+    <string name="confirm">Подтвердите пароль</string>
+    <string name="letsgo">Создать аккаунт</string>
+    <string name="password_mismatch">Пароли не свопадают</string>
+    <string name="login">Войти</string>
+    <string name="wrong_password">Неверный пароль</string>
+    <string name="welcome">"С возращением, "</string>
+    <string name="about_me">"Рад снова видеть, "</string>
+    <string name="old_password">Старый пароль</string>
+    <string name="password_changed">Пароль успешно обновлен</string>
+    <string name="log_out_confirm_message">Это действие удалит все данные и вам прийдется регистрироваться по новой. Вы уверены, что хотите продолжить?</string>
+    <string name="no">Нет</string>
+    <string name="log_out_confirm_title">Вы уверены?</string>
+    <string name="yes">Да</string>
+    <string name="item_name">Название</string>
+    <string name="company_name">Производитель</string>
+    <string name="quantity">Количество</string>
+    <string name="price">Цена</string>
+    <string name="cancel">Отмена</string>
+    <string name="add_item">Добавить</string>
+    <string name="save">ОК</string>
+    <string name="change_password">Изменить пароль</string>
+    <string name="log_out">Выйти</string>
+</resources>
