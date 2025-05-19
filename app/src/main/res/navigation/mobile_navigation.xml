@@ -21,7 +21,11 @@
         android:id="@+id/profile"
         android:name="com.raaveinm.homepharmacy.ui.profile.ProfileFragment"
         android:label="@string/profile"
-        tools:layout="@layout/fragment_profile"/>
+        tools:layout="@layout/fragment_profile">
+        <action
+            android:id="@+id/action_profile_to_web_view"
+            app:destination="@id/web_view" />
+    </fragment>
 
     <fragment
         android:id="@+id/login"
@@ -38,4 +42,12 @@
         tools:layout="@layout/fragment_registration">
 
     </fragment>
+
+    <fragment
+        android:id="@+id/web_view"
+        android:name="com.raaveinm.homepharmacy.ui.webView.WebViewFragment"
+        android:label="webview"
+        tools:layout="@layout/fragment_web_view">
+    </fragment>
+
 </navigation>

@@ -31,4 +31,5 @@
     <string name="save">ОК</string>
     <string name="change_password">Изменить пароль</string>
     <string name="log_out">Выйти</string>
+    <string name="refill_stocks">Купить в аптеке</string>
 </resources>
