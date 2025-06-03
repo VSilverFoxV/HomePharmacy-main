@@ -34,5 +34,6 @@
     <string name="change_password">Change password</string>
     <string name="log_out">Log out</string>
     <string name="refill_stocks">Buy pharmacy</string>
+    <string name="login_image_description">\nfetchedImage</string>
 
 </resources>

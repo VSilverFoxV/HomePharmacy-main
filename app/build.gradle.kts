@@ -52,4 +52,20 @@ dependencies {
     annotationProcessor(libs.room.compiler)
     implementation(libs.room.rxjava3)
     testImplementation(libs.room.testing)
+
+    implementation(libs.picasso)
+    implementation(libs.okhttp)
+
+    // Glide dependencies
+    implementation(libs.glide)
+    annotationProcessor(libs.compiler)
+
+    // Retrofit & Moshi
+    implementation(libs.retrofit)
+    implementation(libs.converter.moshi)
+    implementation(libs.moshi)
+    implementation(libs.moshi.kotlin)
+
+    // OkHttp Logging Interceptor
+    implementation(libs.logging.interceptor)
 }
