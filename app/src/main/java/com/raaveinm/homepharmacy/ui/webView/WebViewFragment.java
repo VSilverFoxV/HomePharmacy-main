@@ -33,6 +33,7 @@ public class WebViewFragment extends Fragment {
         super.onViewCreated(view, savedInstanceState);
 
         WebSettings webSettings = binding.webView.getSettings();
+        webSettings.setJavaScriptEnabled(true);
         webSettings.setDomStorageEnabled(true);
         binding.webView.setWebViewClient(new WebViewClient());
         binding.webView.loadUrl("https://www.eapteka.ru");
